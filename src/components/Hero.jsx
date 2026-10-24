@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 import { CheckCircle2, Star, ArrowRight } from "lucide-react";
 import LeadForm from "./LeadForm";
-import heroImage from "../assets/fssai-hero.png";
+import heroImage from "../assets/fssai-hero1.png";
 import secureIcon from "../assets/card.png";
 import speedIcon from "../assets/card2.png";
 import supportIcon from "../assets/card3.png";
